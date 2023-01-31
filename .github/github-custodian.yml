@@ -1,0 +1,5 @@
+settings:
+  issues:
+    opened:
+      configuration:
+        body: 'Welcome to the demo!'
